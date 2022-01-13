@@ -1,0 +1,8 @@
+/.DS_Store
+/node_modules/
+.eslintcache
+node_modules/
+.vscode/
+.DS_Store
+**/node_modules
+/course-goals-app/node_modules

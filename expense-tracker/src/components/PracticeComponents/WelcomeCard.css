@@ -1,0 +1,8 @@
+.welcome-card {
+    background-color:#40005d;
+    color: white;
+    text-align: center;
+    width: 50rem;
+    padding: .5rem;
+    margin: 10px auto;
+}
