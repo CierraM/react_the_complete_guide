@@ -7,7 +7,7 @@ This is a copy of my work through the "React: The Complete Guide" tutorials by M
  * View his course here:
    https://pro.academind.com/courses/1366761
 
-Each folder is one activity, and should be opened separately. Use npm i to install dependencies.
+Each folder is one activity, and should be opened and used separately. Use npm i to install dependencies. Start the app with npm start.
 My progress in the course goes as follows:
 
 Week01:
