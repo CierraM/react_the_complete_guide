@@ -11,23 +11,23 @@ Each folder is one activity, and should be opened and used separately. Use npm i
 My progress in the course goes as follows:
 
 Week01:
-expense-tracker
+expense-tracker  
 
 Week02:
-expense-tracker
-course-goals-app
+expense-tracker  
+course-goals-app  
 
 Week03:
-debugging
-users-practice-project
+debugging  
+users-practice-project  
 
 Week04:
-food-order-app
+food-order-app  
 
 Week05:
-class-based-components
-component-updates
-custom-hooks
-http-custom-hook-example
-http-requests
+class-based-components  
+component-updates  
+custom-hooks  
+http-custom-hook-example  
+http-requests  
 
