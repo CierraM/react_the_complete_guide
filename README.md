@@ -24,3 +24,10 @@ users-practice-project
 Week04:
 food-order-app
 
+Week05:
+class-based-components
+component-updates
+custom-hooks
+http-custom-hook-example
+http-requests
+
