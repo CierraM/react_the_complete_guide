@@ -35,3 +35,7 @@ Week06:
 forms
 redux basics
 redux project
+
+Week07:
+Advanced Redux
+React Router
